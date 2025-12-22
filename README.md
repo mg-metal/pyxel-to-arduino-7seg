@@ -114,6 +114,6 @@ ser = serial.Serial("COM3", 115200, timeout=0.1)
 
 本プロジェクトの開発経緯や、通信フリーズ、Pythonの罠をAIと共に乗り越えた詳細な記録は、以下のQiita記事で公開しています。
 
-**記事タイトル:** 【Pyxel × Arduino】「7セグLED」ガジェットを作る 〜通信バグとPythonの罠をAIと乗り越えた開発記録〜
+**記事タイトル:** 【Pyxel × Arduino】「7セグLED」ガジェットを作る
 
 **Qiitaリンク:** [URL貼り付け予定]
